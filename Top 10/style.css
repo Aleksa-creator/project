@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,100&family=Roboto:wght@300&display=swap');
+
+body {
+	background-color: gold;
+	background-size: 100%;
+
+	font-size: font-family: 'Roboto', sans-serif;
+	color: blue;
+}
+header {
+		margin: 10;
+		padding: 10;
+}
